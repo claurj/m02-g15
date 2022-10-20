@@ -1,5 +1,6 @@
 # m02-g15
 Repositorio grupo 15
 
-Camila Oliva
-Claudia Rodríguez
+Camila Oliva <br>
+Claudia Rodríguez <br>
+Amalia Pino <br>
