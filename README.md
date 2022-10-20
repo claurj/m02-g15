@@ -4,3 +4,4 @@ Repositorio grupo 15
 Camila Oliva <br>
 Claudia Rodríguez <br>
 Amalia Pino <br>
+Augusta Blanc <br>
