@@ -5,3 +5,4 @@ Camila Oliva <br>
 Claudia Rodríguez <br>
 Amalia Pino <br>
 Augusta Blanc <br>
+Paula Luque <br>
