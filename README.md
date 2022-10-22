@@ -7,3 +7,4 @@ Amalia Pino <br>
 Augusta Blanc <br>
 Paula Luque <br>
 Ema Arenas <br>
+Francini Vargas <br> 
