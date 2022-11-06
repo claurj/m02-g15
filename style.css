@@ -1,6 +1,6 @@
 
 body {
-    background-color: #4237ad;
+    background-color: #1E1E1E;
 }
 
 header {
@@ -41,7 +41,7 @@ header {
     font-size: 180px;
     color: #ffffff;
     display: inline-block;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     line-height: 0%;
     margin-left: 40px;
@@ -116,27 +116,40 @@ header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding: 10%;
 }
 
 .rrss {
-    background-color: #183a60;
-    height: 250px;
+    background-color: #4237AD
+;
+    height: 150px;
     width: 300px;
+    line-height: 1%;
+    margin-left: 10px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
 }
 
 .srrss {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
 }
 
+.nu {
+	
+}
+
 #cont {
-    background-color: #183a60;
+    background-color: #4237AD
+;
     width: 70%;
-    margin-left: 15%;
+    margin-left: 13%;
     margin-right: 15%;
     padding: 3%;
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
 }
 
 /* fotos e imagenes */
@@ -153,8 +166,6 @@ header {
     width: 300px;
     height: 300px;
     position: relative;
-    border-radius: 0%;
-    overflow: hidden;
 }
 
 .dno img {
@@ -210,10 +221,26 @@ footer {
     align-items: center;
 }
 
+.kk {
+	margin: 5px;
+
+}
+
 .footer {
-	font-family: "DM Serif Display", serif;
-	font-weight: lighter;
-    font-size: 23px;
+			font-family: "Questrial", sans-serif;
+		font-weight: lighter;
+    font-size: 20px;
+    color: #ffffff;
+    }
+
+.quote1 {
+	margin: 5px;
+}
+
+.quote {
+		font-family: "Questrial", sans-serif;
+		font-weight: lighter;
+    font-size: 40px;
     color: #ffffff;
     display: flex;
     justify-content: center;
@@ -222,6 +249,12 @@ footer {
     padding: 3px;
 }
 
+.video1 {
+		  display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    flex-direction: column;
+}
 
 
 
