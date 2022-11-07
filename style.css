@@ -49,6 +49,7 @@ header {
     background-color: #4237ad;
     width: 100%;
     position: fixed;
+    z-index: 100
 }
 
 #header {
@@ -82,7 +83,7 @@ header {
 .c0 {
     position: relative;
     font-family: "DM Serif Display", serif;
-    font-size: 180px;
+    font-size: 170px;
     color: #ffffff;
     display: inline-block;
     justify-content: center;
@@ -164,8 +165,7 @@ header {
 }
 
 .rrss {
-    background-color: #4237AD
-;
+    background-color: #4237AD;
     height: 150px;
     width: 300px;
     line-height: 1%;
